@@ -59,6 +59,10 @@
     <Compile Include="Assets\PlayerAnimationController.cs" />
     <Compile Include="Assets\TileController.cs" />
     <Compile Include="Assets\GamePlayManager.cs" />
+    <Compile Include="Assets\PlayerDataSO.cs" />
+    <Compile Include="Assets\MainMenuManager.cs" />
+    <Compile Include="Assets\MusicSFXManager.cs" />
+    <Compile Include="Assets\UIManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
